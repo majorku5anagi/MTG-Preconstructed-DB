@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Oct 12 03:19:04 2025</lastLoadedTimestamp>
+    <deckname>Tarkir: Dragonstorm: Temur Roar</deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Eshki, Temur's Roar"/>
+        <card number="1" name="Deceptive Frostkite"/>
+        <card number="1" name="Hammerhead Tyrant"/>
+        <card number="1" name="Will of the Temur"/>
+        <card number="1" name="Parapet Thrasher"/>
+        <card number="1" name="Thundermane Dragon"/>
+        <card number="1" name="Zenith Festival"/>
+        <card number="1" name="Become the Avalanche"/>
+        <card number="1" name="Broodcaller Scourge"/>
+        <card number="1" name="Keiga, the Tide Star"/>
+        <card number="1" name="Reflections of Littjara"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Gadrak, the Crown-Scourge"/>
+        <card number="1" name="Glorybringer"/>
+        <card number="1" name="Hellkite Courser"/>
+        <card number="1" name="Lathliss, Dragon Queen"/>
+        <card number="1" name="Leyline Tyrant"/>
+        <card number="1" name="Nesting Dragon"/>
+        <card number="1" name="Nogi, Draco-Zealot"/>
+        <card number="1" name="Opportunistic Dragon"/>
+        <card number="1" name="Scourge of the Throne"/>
+        <card number="1" name="Skarrgan Hellkite"/>
+        <card number="1" name="Spit Flame"/>
+        <card number="1" name="Storm's Wrath"/>
+        <card number="1" name="Stormbreath Dragon"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Territorial Hellkite"/>
+        <card number="1" name="Thunderbreak Regent"/>
+        <card number="1" name="Vengeful Ancestor"/>
+        <card number="1" name="Verix Bladewing"/>
+        <card number="1" name="Frontier Siege"/>
+        <card number="1" name="Selvala's Stampede"/>
+        <card number="1" name="Atarka, World Render"/>
+        <card number="1" name="Dragonlord Atarka"/>
+        <card number="1" name="Harbinger of the Hunt"/>
+        <card number="1" name="Sarkhan, Soul Aflame"/>
+        <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Haven of the Spirit Dragon"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Dragon Tempest"/>
+        <card number="1" name="Breaching Dragonstorm"/>
+        <card number="1" name="Temple of the Dragon Queen"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Stormshriek Feral"/>
+        <card number="1" name="Encroaching Dragonstorm"/>
+        <card number="1" name="Draconic Lore"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Dragonlord's Servant"/>
+        <card number="1" name="Rapacious Dragon"/>
+        <card number="1" name="Whirlwing Stormbrood"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Bountiful Landscape"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forest"/>
+    </zone>
+    <zone name="commander">
+        <card number="1" name="Ureni of the Unwritten"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

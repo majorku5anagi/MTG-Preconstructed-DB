@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Challenger Decks 2021: Lotus Field Combo</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Fae of Wishes"/>
+    <card number="4" name="Arboreal Grazer"/>
+    <card number="4" name="Vizier of Tumbling Sands"/>
+    <card number="1" name="Mastermind&#x27;s Acquisition"/>
+    <card number="2" name="Peer into the Abyss"/>
+    <card number="4" name="Hidden Strings"/>
+    <card number="4" name="Sylvan Scrying"/>
+    <card number="4" name="Strategic Planning"/>
+    <card number="4" name="Pore Over the Pages"/>
+    <card number="2" name="Dig Through Time"/>
+    <card number="4" name="Opt"/>
+    <card number="4" name="Lotus Field"/>
+    <card number="4" name="Thespian&#x27;s Stage"/>
+    <card number="4" name="Yavimaya Coast"/>
+    <card number="2" name="Temple of Mystery"/>
+    <card number="6" name="Forest"/>
+    <card number="4" name="Island"/>
+  </zone>
+  <zone name="side">
+    <card number="1" name="Peer into the Abyss"/>
+    <card number="1" name="Omniscience"/>
+    <card number="1" name="Approach of the Second Sun"/>
+    <card number="1" name="Sweltering Suns"/>
+    <card number="2" name="Shifting Ceratops"/>
+    <card number="3" name="Thought Distortion"/>
+    <card number="1" name="Void Snare"/>
+    <card number="1" name="Blink of an Eye"/>
+    <card number="1" name="Tormod&#x27;s Crypt"/>
+    <card number="1" name="Negate"/>
+    <card number="2" name="Wilt"/>
+  </zone>
+</cockatrice_deck>
