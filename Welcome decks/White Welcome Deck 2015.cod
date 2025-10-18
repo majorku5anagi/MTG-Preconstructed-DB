@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>White Welcome Deck 2015</deckname>
+  <zone name="main">
+    <card number="1" name="Serra Angel"/>
+    <card number="1" name="Raise the Alarm"/>
+    <card number="1" name="Celestial Flare"/>
+    <card number="1" name="Pacifism"/>
+    <card number="1" name="Solemn Offering"/>
+    <card number="1" name="Knightly Valor"/>
+    <card number="1" name="Ajani's Pridemate"/>
+    <card number="1" name="Suntail Hawk"/>
+    <card number="1" name="Inspired Charge"/>
+    <card number="1" name="Topan Freeblade"/>
+    <card number="1" name="Cleric of the Forward Order"/>
+    <card number="1" name="Lightcaster Paladin"/>
+    <card number="15" name="Plains"/>
+  </zone>
+</cockatrice_deck>

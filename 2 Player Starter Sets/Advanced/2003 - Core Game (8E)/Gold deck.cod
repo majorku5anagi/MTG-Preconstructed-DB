@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Tue Oct 14 22:10:17 2025</lastLoadedTimestamp>
     <deckname>Gold deck</deckname>
+    <bannerCard providerId=""></bannerCard>
     <comments>Core Game (8E)
 </comments>
+    <tags/>
     <zone name="main">
         <card number="7" name="Forest"/>
         <card number="8" name="Mountain"/>
